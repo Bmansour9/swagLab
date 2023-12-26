@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="5" total="9" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-26T16:41:07 EET" name="Default suite" finished-at="2023-12-26T16:41:56 EET" duration-ms="49014">
+    <groups>
+    </groups>
+    <test started-at="2023-12-26T16:41:07 EET" name="Default test" finished-at="2023-12-26T16:41:56 EET" duration-ms="49014">
+      <class name="swagLabProject.myTestCases">
+        <test-method is-config="true" signature="mySetUp()[pri:0, instance:swagLabProject.myTestCases@2692b61e]" started-at="2023-12-26T16:41:07 EET" name="mySetUp" finished-at="2023-12-26T16:41:29 EET" duration-ms="21950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetUp -->
+        <test-method signature="LoginTest()[pri:1, instance:swagLabProject.myTestCases@2692b61e]" started-at="2023-12-26T16:41:29 EET" name="LoginTest" finished-at="2023-12-26T16:41:31 EET" duration-ms="2264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method signature="AddTwoSpesificItem()[pri:2, instance:swagLabProject.myTestCases@2692b61e]" started-at="2023-12-26T16:41:31 EET" name="AddTwoSpesificItem" finished-at="2023-12-26T16:41:35 EET" duration-ms="3209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddTwoSpesificItem -->
+        <test-method signature="OpenCartAndCheckOut()[pri:3, instance:swagLabProject.myTestCases@2692b61e]" started-at="2023-12-26T16:41:35 EET" name="OpenCartAndCheckOut" finished-at="2023-12-26T16:41:51 EET" duration-ms="16493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenCartAndCheckOut -->
+        <test-method signature="BackHome()[pri:4, instance:swagLabProject.myTestCases@2692b61e]" started-at="2023-12-26T16:41:51 EET" name="BackHome" finished-at="2023-12-26T16:41:56 EET" duration-ms="5069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BackHome -->
+        <test-method is-config="true" signature="afterMyTest()[pri:0, instance:swagLabProject.myTestCases@2692b61e]" started-at="2023-12-26T16:41:56 EET" name="afterMyTest" finished-at="2023-12-26T16:41:56 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMyTest -->
+      </class> <!-- swagLabProject.myTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
